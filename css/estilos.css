@@ -18,3 +18,10 @@ body{
     font-size: 32px;
     color: red;
 }
+
+#footer{
+    background: #777;   
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
